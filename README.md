@@ -1,4 +1,4 @@
-🧹##Limpeza de Dados com Python - Dataset Titanic
+**🧹Limpeza de Dados com Python - Dataset Titanic**<br><br>
 📋 Descrição do Projeto
 Este projeto faz parte de uma série de aulas sobre análise e ciência de dados. Nele, exploramos técnicas básicas de limpeza de dados utilizando o dataset do Titanic, um conjunto de dados amplamente utilizado para ensinar conceitos de análise e modelagem.
 
